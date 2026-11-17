@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AxisRooms provides a comprehensive suite of hospitality technology solutions, including a channel manager, booking engine, and revenue management services. Their platform helps hotels simplify operations, increase direct bookings, and optimize pricing through integrated tools and market expertise. Founded in India, AxisRooms serves hotels worldwide, offering cloud‑based software and support to enhance guest experiences and drive revenue growth.
+AxisRooms provides cloud‑based hospitality solutions, including a hotel channel manager, booking engine, and revenue management services. Their platform helps hotels integrate with multiple distribution channels, manage rates and inventory, and optimize revenue through real‑time data and analytics. Founded in India, AxisRooms serves properties worldwide, offering SaaS tools for reservations, dynamic pricing, and property management integration.
 
-**Areas:** Company
+**Areas:** Hospitality · SaaS · Channel-Manager · Booking-Engine · Revenue-Management · Hotel-Technology
 
 ## AxisRooms on APIs.io
 
@@ -82,35 +82,44 @@ Authentication, trust centre, and vulnerability disclosure.
 
 - [AxisRooms Domain Security](https://apis.io/security/axisrooms/axisrooms-domain-security/)
 
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [AxisRooms Plans Pricing](https://apis.io/plans/axisrooms/axisrooms-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://axisrooms.com/)
+- [Documentation](https://docs.axisrooms.com/)
 - [Support](https://help.axisrooms.com/)
 - [Blog](https://blog.axisrooms.com/)
+- [Terms of service](https://www.axisrooms.com/terms-and-conditions/)
+- [Privacy policy](https://www.axisrooms.com/privacy-policy/)
 
 ## API Evangelist rating
 
-**Kin Score 2.7** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 17.5** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 35.7 |
+| Discoverability | 44.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 7.1 |
-| Access clarity | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 49.5 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 2.9** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -118,7 +127,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -130,7 +139,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/axisrooms/](https://apis.io/providers/axisrooms/).
 
